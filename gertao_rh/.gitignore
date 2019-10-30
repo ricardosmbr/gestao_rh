@@ -1,8 +1,0 @@
-*.pyc
-staticfiles
-contract
-__pycache__
-.idea
-*.sqlite3
-venv
-*.pyc
