@@ -4,4 +4,4 @@ venv
 *.pyc
 staticfiles
 contract
-__pycache__
+gertao_rh/__pycache__/
